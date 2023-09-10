@@ -1,16 +1,22 @@
-### Hi there 👋
+### About Me
+Hello there! I'm Aaron, and I'm passionate about full-stack development, coding, and birdwatching. I host my personal projects here!
 
-<!--
-**zhoaa/zhoaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Tech Stack
+I work primarily in:
 
-Here are some ideas to get you started:
+- Python! 🐍
+- JavaScript! 📝
+- Java! ☕
+- HTML/CSS! 🌐
+- Node.js! 💁‍♂️
+- React! ⚛️
+- Django! 🤠
+- Racket! 🎾
+- Git/GitHub! 🍴 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in Touch
+Email: a9zhou@uwaterloo.ca
+
+LinkedIn: https://www.linkedin.com/in/zhoaa/
+
+Website: https://zhoaa.github.io/
